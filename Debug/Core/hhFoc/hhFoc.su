@@ -1,0 +1,10 @@
+../Core/hhFoc/hhFoc.c:22:8:_constrain	24	static
+../Core/hhFoc/hhFoc.c:32:7:_normalizeAngle	24	static
+../Core/hhFoc/hhFoc.c:41:6:SetPwm	32	static
+../Core/hhFoc/hhFoc.c:57:6:setPhaseVoltage	48	static
+../Core/hhFoc/hhFoc.c:80:7:_electricalAngle_M0	16	static
+../Core/hhFoc/hhFoc.c:83:6:AlignElectricalAngleM0	8	static
+../Core/hhFoc/hhFoc.c:93:6:AlignElectricalTest0	8	static
+../Core/hhFoc/hhFoc.c:98:6:hhFocInit	24	static
+../Core/hhFoc/hhFoc.c:110:6:SetsetPhaseVoltageM0	24	static
+../Core/hhFoc/hhFoc.c:114:6:hhOpenLoopVelM0	24	static
