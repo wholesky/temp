@@ -1,0 +1,7 @@
+../Core/hhFoc/hhFoc.c:21:8:_constrain	3
+../Core/hhFoc/hhFoc.c:31:7:_normalizeAngle	2
+../Core/hhFoc/hhFoc.c:40:6:SetPwm	2
+../Core/hhFoc/hhFoc.c:56:6:setPhaseVoltage	1
+../Core/hhFoc/hhFoc.c:77:6:hhFocInit	1
+../Core/hhFoc/hhFoc.c:88:6:SetsetPhaseVoltageM0	1
+../Core/hhFoc/hhFoc.c:92:6:hhOpenLoopVelM0	1

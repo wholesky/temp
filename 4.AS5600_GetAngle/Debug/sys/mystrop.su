@@ -1,0 +1,8 @@
+D:/mydocument/mylib/mystmlib/c/sys/mystrop.c:15:5:_write	24	static
+D:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/stdio.h:220:5:fputc	16	static
+D:/mydocument/mylib/mystmlib/c/sys/mystrop.c:23:6:halprint	16	static
+D:/mydocument/mylib/mystmlib/c/sys/mystrop.c:28:6:halprintln	16	static
+D:/mydocument/mylib/mystmlib/c/sys/mystrop.c:32:5:getcharlen	32	static
+D:/mydocument/mylib/mystmlib/c/sys/mystrop.c:37:5:getcharlen_double	32	static
+D:/mydocument/mylib/mystmlib/c/sys/mystrop.c:43:7:float2char	24	static
+D:/mydocument/mylib/mystmlib/c/sys/mystrop.c:51:7:double2char	32	static

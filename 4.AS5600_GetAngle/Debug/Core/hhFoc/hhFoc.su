@@ -1,0 +1,7 @@
+../Core/hhFoc/hhFoc.c:21:8:_constrain	24	static
+../Core/hhFoc/hhFoc.c:31:7:_normalizeAngle	24	static
+../Core/hhFoc/hhFoc.c:40:6:SetPwm	32	static
+../Core/hhFoc/hhFoc.c:56:6:setPhaseVoltage	48	static
+../Core/hhFoc/hhFoc.c:77:6:hhFocInit	24	static
+../Core/hhFoc/hhFoc.c:88:6:SetsetPhaseVoltageM0	24	static
+../Core/hhFoc/hhFoc.c:92:6:hhOpenLoopVelM0	24	static

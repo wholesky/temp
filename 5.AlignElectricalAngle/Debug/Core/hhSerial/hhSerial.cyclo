@@ -1,0 +1,5 @@
+../Core/hhSerial/hhSerial.c:15:6:Serial_Printf	2
+../Core/hhSerial/hhSerial.c:31:6:StartSerialITReceive	1
+../Core/hhSerial/hhSerial.c:37:6:HAL_UARTEx_RxEventCallback	4
+../Core/hhSerial/hhSerial.c:62:7:GetSerialRetFloat1	1
+../Core/hhSerial/hhSerial.c:65:7:GetSerialRetFloat2	1

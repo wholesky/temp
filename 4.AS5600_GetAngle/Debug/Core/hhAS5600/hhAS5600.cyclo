@@ -1,0 +1,13 @@
+../Core/hhAS5600/hhAS5600.c:21:6:I2C_W_SCL	1
+../Core/hhAS5600/hhAS5600.c:25:6:I2C_W_SDA	1
+../Core/hhAS5600/hhAS5600.c:29:9:I2C_R_SDA	2
+../Core/hhAS5600/hhAS5600.c:38:6:I2C_Start	1
+../Core/hhAS5600/hhAS5600.c:45:6:I2C_Stop	1
+../Core/hhAS5600/hhAS5600.c:51:6:I2C_SendByte	2
+../Core/hhAS5600/hhAS5600.c:61:9:I2C_RecviveData	3
+../Core/hhAS5600/hhAS5600.c:74:6:I2C_SendAck	1
+../Core/hhAS5600/hhAS5600.c:80:9:I2C_RecviveAck	1
+../Core/hhAS5600/hhAS5600.c:92:6:MyI2C_Init	1
+../Core/hhAS5600/hhAS5600.c:97:7:AS5600_GetRawData	2
+../Core/hhAS5600/hhAS5600.c:131:6:M0Sensor_update	3
+../Core/hhAS5600/hhAS5600.c:156:6:Sensor_update	1
